@@ -1,14 +1,12 @@
 import Link from "next/link"
 
 
-function page() {
+export function page() {
   return (
-   
-      <div>
-     
-        
+     <div> 
+      <li><a href="/about">hollaaaaaaaaaaaaaa</a></li>
    </div>
-    
+  
   )
 }
 
